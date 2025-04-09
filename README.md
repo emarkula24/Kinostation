@@ -1,5 +1,7 @@
 # Movie Application 🎥
 
+## Notice
+This repository is a fork of the original project that was done in a group. The backlog and demonsration of agile project management abilities can be found [here](https://github.com/orgs/Group-12-Org/projects/2)
 
 ## 📖 Overview
 Discover movies with detailed info, and ratings. Share your thoughts, rate films, and connect with fellow fans in interactive groups. Use filters to explore new titles, create favorite lists, and personalize your cinema experience. Perfect for every movie lover, this app brings everything you need for a seamless and fun movie journey!
