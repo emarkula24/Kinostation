@@ -1,4 +1,4 @@
-# Movie Application 🎥
+# KinoStation 🎥
 
 ## Notice
 This repository is a fork of the original project that was done in a group. The backlog and demonsration of agile project management abilities can be found [here](https://github.com/orgs/Group-12-Org/projects/2)
