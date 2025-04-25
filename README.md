@@ -113,6 +113,7 @@ npm run test
 ```
 
 ## 🎥 Demo/Preview
+https://purple-meadow-09333ff03.4.azurestaticapps.net/
 
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
